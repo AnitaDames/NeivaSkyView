@@ -34,8 +34,23 @@ h1 {
     width: 100%;
 }
 
+.cloud img{
+    width: 100%;
+    height: 87%;
+}
+
 footer {
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 25Px;
+}
+
+i {
+    text-transform: none;
+    text-align: center;
+    margin-bottom: 25Px;
+    font-size: 10px;
+}
+.fa-regular fa-copyright {
+    width: 50px;
 }
